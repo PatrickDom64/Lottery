@@ -16,7 +16,6 @@ namespace Lottery
         {
             InitializeComponent();
         }
-
         private void ButtonGo_Click(object sender, EventArgs e)
         {
             // Criar uma instância da classe Random
